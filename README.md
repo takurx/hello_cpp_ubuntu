@@ -21,6 +21,11 @@ g++ hello.cpp
 ```
 ./a.out
 ```
+- Example.
+```
+chino@kafu:~/Github/hello_cpp_ubuntu$ ./a.out 
+Hello world.
+```
 
 ### Reference
 1. https://qiita.com/monhan/items/ea7e642b91392bfce8a6
